@@ -1,0 +1,1 @@
+This project list all recipes in a single page. Once click, it will redirect to the recipe
